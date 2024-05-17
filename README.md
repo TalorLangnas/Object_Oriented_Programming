@@ -4,10 +4,10 @@ Welcome to the repository for assignments in the Object Oriented Programming cou
 
 ## Assignments Overview
 
-1. **Assignment 1: [Group Members](https://github.com/TalorLangnas/Object_Oriented_Programming/tree/main/Group%20Members)**
+- **Assignment 1: [Group Members](https://github.com/TalorLangnas/Object_Oriented_Programming/tree/main/Group%20Members)**
    - Description: Focusing on the observer design pattern. The project involves an "UndoableStringBuilder" class, along with a "GroupAdmin" class that manages members and notifies them of changes
 
-2. **Assignment 2: [Threads and Priority ThreadPool](https://github.com/TalorLangnas/Object_Oriented_Programming/tree/main/Threads%20and%20Priority%20ThreadPool)**
+- **Assignment 2: [Threads and Priority ThreadPool](https://github.com/TalorLangnas/Object_Oriented_Programming/tree/main/Threads%20and%20Priority%20ThreadPool)**
    - Description: Create new types that extend the functionality of Java͛s Concurrency Framework.
 
 ## Usage
